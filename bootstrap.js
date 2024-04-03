@@ -4,7 +4,7 @@ function checkForTag(tagName) {
     if (element.length > 0) {
         console.log("Tag <" + tagName + "> found in the document.");
     } else {
-        console.log("Tag <" + tagName + "> not found in the document.");
+        console.log("Tag <" + tagName + "> NOT found in the document.");
     }
 }
 
